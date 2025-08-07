@@ -1,6 +1,6 @@
-#  Hi, I'm Lokesh
+#  Welcome
 
-Final-year B.Tech student majoring in Electronics and Communication Engineering with a minor in Software Engineering at NIT Andhra Pradesh, interested to work in the AI/ML research domain with a strong focus on integrating software development.
+I'm Lokesh, a Final-year B.Tech student majoring in Electronics and Communication Engineering with a minor in Software Engineering at NIT Andhra Pradesh, interested to work in the AI/ML research domain with a strong focus on integrating software development.
 
 I worked with following list until now and trying to expand the list
 ## Technical Background
