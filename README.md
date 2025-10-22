@@ -6,8 +6,8 @@ I worked with following list until now and trying to expand the list
 ## Technical Background
 
 - **Languages**: Java, Python  
-- **Core Concepts**: Data Structures, Algorithms, OOPs, DBMS, Image Processing  
-- **AI/ML**: Machine Learning, Deep Learning, Computer Vision, NLP, GenAI  
+- **Core Concepts**: Data Structures, Algorithms, OOPs, DBMS, Image Processing
+- **AI/ML**: Machine Learning, Deep Learning, Computer Vision, NLP, LLMs  
 - **Libraries/Frameworks**: LangChain, TensorFlow, PyTorch, Scikit-learn, OpenCV, NLTK, Pandas  
 - **Tools/Platforms**: Jupyter Notebook, PyCharm, IntelliJ, VS Code, Windows, Linux
 
@@ -15,11 +15,11 @@ I worked with following list until now and trying to expand the list
 
 ## Projects
 
--  [AI-Powered Research Assistant](https://github.com/rlnlokesh/AI-Powered-Research-Assistant)  
-  Built an autonomous research assistant using RAG architecture with LangGraph and Streamlit. It dynamically routes queries between arXiv and Wikipedia, delivering real-time, well-sourced responses.
+-  [Detecting Hallucinations in LLMs]  
+  Implemented a method, that computes Laplacian matrix from transformer attention, selects top-k eigenvalues, reduce the dimensions with PCA, and feed the reduced feature vector to binary classifier.
 
--  [Face Recognizer](https://github.com/rlnlokesh/Face-Recogniser)  
-  Developed an SVM-based face recognition model using a custom dataset. Applied Haar wavelet transforms and hyperparameter tuning via GridSearchCV to improve precision.
+-  [Multimodal Neural Networks for E-commerce Product Valuation]()  
+  Developed multimodal deep learning pipeline extracting 512 dimensional CLIP embeddings from images and text, concatenating into 1024-dim vectors with statistical features to predict the product price, achieving 46% SMAPE for e-commerce price estimation..
 
 --- and many more..
 
