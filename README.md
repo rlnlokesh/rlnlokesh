@@ -15,9 +15,9 @@ I worked with following list until now and trying to expand the list
 
 ## Projects
 
--  [Detecting Hallucinations in LLMs]  
-  Implemented a method, that computes Laplacian matrix from transformer attention, selects top-k eigenvalues, reduce the dimensions with PCA, and feed the reduced feature vector to binary classifier.
-
+-  [Detecting Hallucinations in LLMs](https://github.com/rlnlokesh/Hallucination-Detection-in-LLMs)
+  Developed a hallucination detection method for LLMs by extracting attention maps, computing Laplacia Eigenvalues, and deriving statistical features (entropy, variance, similarity metrics) across all heads and layers.
+  Concatenated Laplacian and spectral features into a single representation and trained a LightGBM binary classifier on the GPT-3 1.3B model, improving accuracy on the HaluEval dataset from 81% to 93%
 -  [Multimodal Neural Networks for E-commerce Product Valuation](https://github.com/rlnlokesh/Multimodal-Neural-Networks-for-E-commerce-Product-Valuation)  
   Developed multimodal deep learning pipeline extracting 512 dimensional CLIP embeddings from images and text, concatenating into 1024-dim vectors with statistical features to predict the product price, achieving 46% SMAPE for e-commerce price estimation..
 
